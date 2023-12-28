@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Unit Testing using Jest and React Testing Library
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
