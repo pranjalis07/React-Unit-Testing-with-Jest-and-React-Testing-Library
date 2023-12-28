@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "App.test.tsx", "TodoList.test.tsx", "FollowersList.test.tsx"  ]
 }
